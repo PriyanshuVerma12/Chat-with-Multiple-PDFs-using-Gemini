@@ -1,6 +1,6 @@
 # Chat-with-Multiple-PDFs-using-Gemini
 
-![Project Screenshot](Screenshot (1872).png)
+![Project Screenshot](https://github.com/PriyanshuVerma12/Chat-with-Multiple-PDFs-using-Gemini/blob/main/Screenshot%20(1872).png))
 
 Interact with multiple PDFs using **Gemini AI** made using **LangChain**.  
 
