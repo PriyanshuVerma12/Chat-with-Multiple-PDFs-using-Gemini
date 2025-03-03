@@ -1,5 +1,6 @@
 # Chat-with-Multiple-PDFs-using-Gemini
 
+![Project Screenshot](Screenshot (1872).png)
 
 Interact with multiple PDFs using **Gemini AI** made using **LangChain**.  
 
