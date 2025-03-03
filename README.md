@@ -4,6 +4,8 @@
 
 Interact with multiple PDFs using **Gemini AI** made using **LangChain**.  
 
+## Try it here - https://huggingface.co/spaces/PriyanshuVerma12/Chat-with-Multiple-PDFs-using-Gemini
+
 ## ✨ Features  
 - 🔹 **Multi-PDF Processing** – Upload multiple PDFs and chat with them seamlessly.  
 - 🔹 **Retrieval-Augmented Generation (RAG)** – Uses an optimized pipeline for accurate responses.  
